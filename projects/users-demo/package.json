@@ -1,6 +1,6 @@
 {
-  "name": "users",
-  "version": "0.0.18",
+  "name": "users-demo",
+  "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^16.2.0",
     "@angular/core": "^16.2.0"
